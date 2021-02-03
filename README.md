@@ -12,3 +12,4 @@ Basic Console Salary Calculation Application Written In C.
   
   ---------------------------------------
 ![Screen shot](https://raw.githubusercontent.com/burakyccl/SalaryCal-C/main/gif.gif)
+![Screen shot](https://raw.githubusercontent.com/burakyccl/SalaryCal-C/main/ss.jpg)

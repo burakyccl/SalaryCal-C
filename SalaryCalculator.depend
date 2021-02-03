@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612370759 source:c:\code database\c projects\employeesalary\salarycalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
